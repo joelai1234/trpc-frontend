@@ -1,15 +1,15 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/register/page": "app/register/page.js",
   "/page": "app/page.js",
+  "/register/page": "app/register/page.js",
   "/login/page": "app/login/page.js",
-  "/(authenticated)/dashboard/page": "app/(authenticated)/dashboard/page.js",
   "/(authenticated)/characters/[id]/page": "app/(authenticated)/characters/[id]/page.js",
-  "/(authenticated)/rooms/page": "app/(authenticated)/rooms/page.js",
-  "/(authenticated)/rooms/[id]/page": "app/(authenticated)/rooms/[id]/page.js",
-  "/(authenticated)/scripts/[id]/page": "app/(authenticated)/scripts/[id]/page.js",
   "/(authenticated)/characters/create/page": "app/(authenticated)/characters/create/page.js",
   "/(authenticated)/rooms/create/page": "app/(authenticated)/rooms/create/page.js",
+  "/(authenticated)/scripts/[id]/page": "app/(authenticated)/scripts/[id]/page.js",
+  "/(authenticated)/rooms/page": "app/(authenticated)/rooms/page.js",
+  "/(authenticated)/rooms/[id]/page": "app/(authenticated)/rooms/[id]/page.js",
+  "/(authenticated)/dashboard/page": "app/(authenticated)/dashboard/page.js",
   "/(authenticated)/scripts/page": "app/(authenticated)/scripts/page.js"
 }
